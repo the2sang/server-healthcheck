@@ -15,7 +15,7 @@ message UserGetRequest {
 message User {
   string id = 1;
   string first_name = 2;
-  string last_anem = 3;
+  string last_name = 3;
   int32 age = 4;
 }
 
